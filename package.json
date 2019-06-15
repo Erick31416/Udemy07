@@ -1,0 +1,15 @@
+{
+  "name": "06-webserver",
+  "version": "19.6.8",
+  "description": "Proyecto de udemi para explicar express heroku y mas...",
+  "main": "app.js",
+  "scripts": {
+    "test": "app",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "udemi"
+  ],
+  "author": "erick31416",
+  "license": "MIT"
+}
